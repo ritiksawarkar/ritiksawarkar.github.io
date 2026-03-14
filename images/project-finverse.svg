@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900" role="img" aria-labelledby="finverseTitle finverseDesc">
+  <title id="finverseTitle">FinVerse project artwork</title>
+  <desc id="finverseDesc">Blue banking themed showcase card for the FinVerse project.</desc>
+  <defs>
+    <linearGradient id="finverseBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#020617" />
+      <stop offset="55%" stop-color="#172554" />
+      <stop offset="100%" stop-color="#0f766e" />
+    </linearGradient>
+    <linearGradient id="finverseAccent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="100%" stop-color="#22d3ee" />
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="900" rx="40" fill="url(#finverseBg)" />
+  <rect x="100" y="100" width="1200" height="700" rx="32" fill="#08111d" fill-opacity="0.48" stroke="#7dd3fc" stroke-opacity="0.24" />
+  <text x="130" y="200" fill="#e0f2fe" font-size="82" font-family="Arial, sans-serif" font-weight="700">FinVerse</text>
+  <text x="130" y="258" fill="#67e8f9" font-size="34" font-family="Arial, sans-serif" letter-spacing="5">DIGITAL BANKING PLATFORM</text>
+  <text x="130" y="356" fill="#dbeafe" font-size="34" font-family="Arial, sans-serif">Account workflows, financial dashboards, and modern banking journeys.</text>
+  <g transform="translate(130 440)">
+    <rect width="320" height="210" rx="26" fill="#0c1f37" stroke="#38bdf8" stroke-opacity="0.34" />
+    <text x="34" y="64" fill="#bae6fd" font-size="24" font-family="Arial, sans-serif">Product Focus</text>
+    <text x="34" y="118" fill="#f8fafc" font-size="42" font-family="Arial, sans-serif" font-weight="700">Secure UI</text>
+    <text x="34" y="164" fill="#cbd5e1" font-size="28" font-family="Arial, sans-serif">Dashboard • Accounts • Flows</text>
+  </g>
+  <g transform="translate(520 430)">
+    <rect width="690" height="270" rx="28" fill="#071728" stroke="#22d3ee" stroke-opacity="0.28" />
+    <rect x="40" y="46" width="610" height="30" rx="15" fill="#10324c" />
+    <rect x="40" y="112" width="230" height="118" rx="22" fill="url(#finverseAccent)" fill-opacity="0.9" />
+    <rect x="300" y="112" width="160" height="118" rx="22" fill="#1d4ed8" />
+    <rect x="490" y="112" width="160" height="118" rx="22" fill="#0f766e" />
+  </g>
+</svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900" role="img" aria-labelledby="compilerTitle compilerDesc">
+  <title id="compilerTitle">Code compiler project artwork</title>
+  <desc id="compilerDesc">Developer tooling themed showcase card for the web-based code compiler.</desc>
+  <defs>
+    <linearGradient id="compilerBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#030712" />
+      <stop offset="55%" stop-color="#1f2937" />
+      <stop offset="100%" stop-color="#0f172a" />
+    </linearGradient>
+    <linearGradient id="compilerAccent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#f59e0b" />
+      <stop offset="100%" stop-color="#f97316" />
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="900" rx="40" fill="url(#compilerBg)" />
+  <rect x="94" y="96" width="1212" height="708" rx="30" fill="#111827" fill-opacity="0.72" stroke="#f59e0b" stroke-opacity="0.26" />
+  <text x="128" y="196" fill="#fff7ed" font-size="74" font-family="Arial, sans-serif" font-weight="700">Web-Based Code Compiler</text>
+  <text x="128" y="254" fill="#fdba74" font-size="30" font-family="Arial, sans-serif" letter-spacing="5">HACKATHON AND EVALUATION TOOLING</text>
+  <text x="128" y="344" fill="#d1d5db" font-size="34" font-family="Arial, sans-serif">Fast submission workflows, browser-based execution, and clean review-oriented UI.</text>
+  <g transform="translate(128 430)">
+    <rect width="500" height="260" rx="26" fill="#0a0f1a" stroke="#fb923c" stroke-opacity="0.34" />
+    <rect x="28" y="28" width="444" height="34" rx="17" fill="#1f2937" />
+    <rect x="28" y="92" width="180" height="24" rx="12" fill="#374151" />
+    <rect x="28" y="138" width="300" height="20" rx="10" fill="#4b5563" />
+    <rect x="28" y="176" width="248" height="20" rx="10" fill="#4b5563" />
+    <rect x="28" y="214" width="120" height="24" rx="12" fill="url(#compilerAccent)" />
+  </g>
+  <g transform="translate(680 440)">
+    <rect width="520" height="248" rx="26" fill="#0b1220" stroke="#fbbf24" stroke-opacity="0.28" />
+    <text x="34" y="64" fill="#fde68a" font-size="24" font-family="Arial, sans-serif">Core Stack</text>
+    <text x="34" y="122" fill="#f8fafc" font-size="42" font-family="Arial, sans-serif" font-weight="700">React + Node.js</text>
+    <text x="34" y="176" fill="#d1d5db" font-size="28" font-family="Arial, sans-serif">Submission flows • Execution pipeline • Evaluation support</text>
+  </g>
+</svg>

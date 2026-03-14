@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="pythonTitle">
+  <title id="pythonTitle">Python badge</title>
+  <rect width="512" height="512" rx="64" fill="#111827" />
+  <path fill="#60a5fa" d="M257 84c-96 0-90 42-90 42v44h90v13H132S72 177 72 257s52 77 52 77h31v-43s-2-52 50-52h83s47 1 47-45V128s7-44-78-44Zm-49 26a16 16 0 1 1 0 32 16 16 0 0 1 0-32Z"/>
+  <path fill="#fbbf24" d="M255 428c96 0 90-42 90-42v-44h-90v-13h125s60 6 60-74-52-77-52-77h-31v43s2 52-50 52h-83s-47-1-47 45v66s-7 44 78 44Zm49-26a16 16 0 1 1 0-32 16 16 0 0 1 0 32Z"/>
+</svg>

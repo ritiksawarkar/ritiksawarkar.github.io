@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900" role="img" aria-labelledby="hackathonTitle hackathonDesc">
+  <title id="hackathonTitle">Hackathon suite project artwork</title>
+  <desc id="hackathonDesc">Purple and cyan showcase card for a collection of hackathon projects.</desc>
+  <defs>
+    <linearGradient id="hackathonBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="50%" stop-color="#1e1b4b" />
+      <stop offset="100%" stop-color="#164e63" />
+    </linearGradient>
+    <linearGradient id="hackathonAccent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#a78bfa" />
+      <stop offset="100%" stop-color="#22d3ee" />
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="900" rx="40" fill="url(#hackathonBg)" />
+  <circle cx="260" cy="220" r="160" fill="#8b5cf6" fill-opacity="0.18" />
+  <circle cx="1160" cy="700" r="180" fill="#06b6d4" fill-opacity="0.16" />
+  <rect x="104" y="104" width="1192" height="692" rx="30" fill="#0b1020" fill-opacity="0.56" stroke="#c084fc" stroke-opacity="0.24" />
+  <text x="130" y="202" fill="#f5f3ff" font-size="74" font-family="Arial, sans-serif" font-weight="700">Hackathon Project Suite</text>
+  <text x="130" y="260" fill="#c4b5fd" font-size="30" font-family="Arial, sans-serif" letter-spacing="5">MERN PROTOTYPES AND RAPID PRODUCT BUILDS</text>
+  <text x="130" y="352" fill="#dbeafe" font-size="34" font-family="Arial, sans-serif">A showcase of problem-solving products built for speed, clarity, and real-world impact.</text>
+  <g transform="translate(130 438)">
+    <rect width="1040" height="220" rx="28" fill="#0d1326" stroke="#67e8f9" stroke-opacity="0.22" />
+    <rect x="32" y="34" width="300" height="152" rx="22" fill="url(#hackathonAccent)" fill-opacity="0.82" />
+    <rect x="364" y="34" width="190" height="152" rx="22" fill="#4c1d95" />
+    <rect x="586" y="34" width="190" height="152" rx="22" fill="#0f766e" />
+    <rect x="808" y="34" width="200" height="152" rx="22" fill="#312e81" />
+  </g>
+</svg>
